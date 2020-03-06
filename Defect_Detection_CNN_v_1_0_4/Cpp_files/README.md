@@ -1,0 +1,3 @@
+本项目主要测试Cpp tensorflow lite框架，暂时未能在x86平台下执行，原因为尚未找到tensorflow lite在x86平台下源码编译的方式
+
+建议未来在Arm64平台下验证
